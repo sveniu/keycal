@@ -1,0 +1,17 @@
+Planned features:
+
+V Minimize to systray.
+- Program icon.
+V Use FPU in stead of fixed point arithmetics to rescale progress
+  bars (there will be problems when the keycount increases; there
+  are some lame multiplications going on.)
+V Always on top.
+V Handle start date.
+- Disallow multiple instances. (check for class names?)
+V Use FPU to calculate per second/minute/hour/day statistics.
+V Use FPU to calculate trivia.
+- Start program on Windows startup.
+? Online trivia-generator.
+? Generate txt files with statistics. (thanks, jb)
+? Support for special characters, like זרו. (thanks, jb)
+? Display total key count in the notify-icon title.

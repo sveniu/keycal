@@ -1,0 +1,5 @@
+LIBRARY kbhook
+EXPORTS 
+KeyboardProc
+InstallHook
+UninstallHook
